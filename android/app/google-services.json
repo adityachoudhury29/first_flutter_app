@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750104499327",
+    "project_id": "adityas-first-flutter-project",
+    "storage_bucket": "adityas-first-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750104499327:android:9c0d20eb721a3c98211b4a",
+        "android_client_info": {
+          "package_name": "com.example.first_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUnD7YxMzF9hLNGa_7whr7CKgKYagKqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
